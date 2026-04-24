@@ -2,6 +2,12 @@
 
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+</picture>
+
 <!--
 **shvtt/shvtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
