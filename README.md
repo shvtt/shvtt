@@ -2,10 +2,9 @@
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8B8B8&background=FFFFFF00&width=435&lines=Hi+there!)](https://t.me/shvtt)
 
-## <img src="https://cdn.simpleicons.org/gnometerminal/ffffff" width="20"/> Socials
+## <img src="https://cdn.simpleicons.org/soriana/ffffff" width="20"/> Socials
 [![Telegram](https://img.shields.io/badge/telegram-gray?style=for-the-badge&logo=telegram&logoColor=%23ffffff&logoSize=auto)](https://t.me/shvtt)
 [![GMail](https://img.shields.io/badge/shvttq%40gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:shvttq@gmail.com)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shvtt/shvtt/output/github-snake-dark.svg" />
