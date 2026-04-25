@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=shvtt&style=for-the-badge&color=lightgrey)
 
 ## Hi there 👋
+[![Typing]([https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Sergei!+%20🙏](https://readme-typing-svg.demolab.com/demo/?color=B8B8B8&background=FFFFFF00&center=true&vCenter=true&lines=Hi+there!))](https://t.me/shvtt)
 
 [![Telegram](https://img.shields.io/badge/telegram-gray?style=for-the-badge&logo=telegram&logoColor=%23ffffff&logoSize=auto)](https://t.me/shvtt)
 [![GMail](https://img.shields.io/badge/shvttq%40gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:shvttq@gmail.com)
