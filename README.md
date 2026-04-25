@@ -3,7 +3,8 @@
 ## Hi there 👋
 
 [![Telegram](https://img.shields.io/badge/telegram-gray?style=for-the-badge&logo=telegram&logoColor=%23ffffff&logoSize=auto)](https://t.me/shvtt)
-[![GMail](https://img.shields.io/badge/shvttq%40gmail.com-gray?style=flat-square&logo=gmail&logoColor=%23ffffff&logoSize=auto)](mailto:shvttq@gmail.com)
+[![GMail](https://img.shields.io/badge/shvttq%40gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=%23ffffff&logoSize=auto)](mailto:shvttq@gmail.com)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shvtt/shvtt/output/github-snake-dark.svg" />
