@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-[![Telegram](https://img.shields.io/badge/telegram-lightgrey?style=flat-square&logo=Telegram&logoColor=%23ffffff&logoSize=auto&color=%236f7782)](https://t.me/shvtt)
+[![Telegram](https://img.shields.io/badge/telegram-gray?style=flat-square&logo=Telegram&logoColor=%23ffffff&logoSize=auto&color=%236f7782)](https://t.me/shvtt)
 [![GMail](https://img.shields.io/badge/shvttq%40gmail.com-lightgrey?style=flat-square&logo=gmail&logoColor=%23ffffff&logoSize=auto&color=%236f7782)](mailto:shvttq@gmail.com)
 
 
